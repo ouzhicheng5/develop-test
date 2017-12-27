@@ -118,6 +118,7 @@
           <element id="library" level="project" name="Maven: net.sourceforge.javacsv:javacsv:2.0" />
           <element id="library" level="project" name="Maven: com.opencsv:opencsv:3.6" />
           <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.11.1" />
+          <element id="library" level="project" name="Maven: org.scala-lang:scala-library:2.7.0" />
         </element>
       </element>
       <element id="directory" name="META-INF">

@@ -2,87 +2,109 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf2ec98a-7995-4842-bc93-7f75be5aef12" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excelUtilsTest/resource/cooperation.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excelUtilsTest/resource/students_01.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excelUtilsTest/resource/students_02.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/common/constant/Constant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/common/constant/ErrorCode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/common/constant/RedisKey.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/common/db/JooqPgGenerator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/common/dict/AccountState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/common/dict/dictType/DictType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/common/transaction/JooqTransactionFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/common/transaction/SpringExceptionTranslationExecuteListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/common/transaction/SpringTransaction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/common/transaction/SpringTransactionConnectionProvider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/common/transaction/SpringTransactionProvider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/common/vo/OffsetPagingVo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/common/vo/PageVo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/common/Base64.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/common/IniFileReader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/common/MyException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/common/NameValuePair.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/ClientGlobal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/DownloadCallback.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/DownloadStream.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/FileInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/ProtoCommon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/ProtoStructDecoder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/ServerInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/StorageClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/StorageClient1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/StorageServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/StructBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/StructGroupStat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/StructStorageStat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/TrackerClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/TrackerGroup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/TrackerServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/UploadCallback.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/UploadStream.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/CollectionUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/CommonUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/CsvUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/ExcelUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/FastDfsUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/HtmlTextUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/JSONUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/PidUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/PropertyPlaceholder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/PropertyUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/RedisUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/SecurityUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/SmsUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/StringUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/ValidationUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/VoReTraversalUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/csv/annotation/CsvField.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/csv/util/ExportCSV.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/csv/util/ImportCSV.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/csvUtilsTest/base/csv2module.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/csvUtilsTest/base/module2csv.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/csvUtilsTest/modules/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excel/annotation/ExcelField.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excel/exceptions/Excel4jReadException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excel/exceptions/Excel4jWriteException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excel/exceptions/IllegalGroupIndexException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excel/exceptions/TimeMatchFormatException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excel/handler/ExcelHeader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excel/handler/ExcelTemplate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excel/handler/HandlerConstant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excel/utils/DateUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excel/utils/RegularUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excel/utils/Utils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excelUtilsTest/java/base/Excel2Module.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excelUtilsTest/java/base/Module2Excel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excelUtilsTest/java/moudles/Student1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/excelUtilsTest/java/moudles/Student2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/fdfs/ConnectionPool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/fdfs/HeartBeat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/thirdLogin/RequestUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/java/common/util/thirdLogin/WebConst.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-common/src/main/resources/conf/conf.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jmock_jmock_2_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalacheck_scalacheck_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalatest_scalatest_0_9_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_specs_specs_1_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/common/constant/Constant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/common/constant/ErrorCode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/common/constant/RedisKey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/common/db/JooqPgGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/common/dict/AccountState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/common/dict/dictType/DictType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/common/transaction/JooqTransactionFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/common/transaction/SpringExceptionTranslationExecuteListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/common/transaction/SpringTransaction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/common/transaction/SpringTransactionConnectionProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/common/transaction/SpringTransactionProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/common/vo/OffsetPagingVo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/common/vo/PageVo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/common/Base64.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/common/IniFileReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/common/MyException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/common/NameValuePair.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/ClientGlobal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/DownloadCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/DownloadStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/FileInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/ProtoCommon$RecvHeaderInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/ProtoCommon$RecvPackageInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/ProtoCommon.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/ProtoStructDecoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/ServerInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/StorageClient$UploadBuff.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/StorageClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/StorageClient1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/StorageServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/StructBase$FieldInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/StructBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/StructGroupStat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/StructStorageStat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/TrackerClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/TrackerGroup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/TrackerServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/UploadCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/csource/fastdfs/UploadStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/CollectionUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/CommonUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/CsvUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/ExcelUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/FastDfsUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/HtmlTextUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/JSONUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/PidUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/PropertyPlaceholder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/PropertyUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/RedisUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/SecurityUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/SmsUtil$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/SmsUtil$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/SmsUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/StringUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/ValidationUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/VoReTraversalUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/csv/annotation/CsvField.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/csv/util/ExportCSV.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/csv/util/ImportCSV.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/csvUtilsTest/base/csv2module.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/csvUtilsTest/base/module2csv.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/csvUtilsTest/modules/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/excel/annotation/ExcelField.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/excel/exceptions/Excel4jReadException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/excel/exceptions/Excel4jWriteException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/excel/exceptions/IllegalGroupIndexException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/excel/exceptions/TimeMatchFormatException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/excel/handler/ExcelHeader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/excel/handler/ExcelTemplate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/excel/handler/HandlerConstant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/excel/utils/DateUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/excel/utils/RegularUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/excel/utils/Utils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/excelUtilsTest/java/base/Excel2Module.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/excelUtilsTest/java/base/Module2Excel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/excelUtilsTest/java/moudles/Student1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/excelUtilsTest/java/moudles/Student2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/fdfs/ConnectionPool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/fdfs/HeartBeat$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/fdfs/HeartBeat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/thirdLogin/RequestUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/classes/common/util/thirdLogin/WebConst.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-config/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-config/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-controller/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-controller/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-entity/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-entity/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-interface/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-common/target/demo-common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/demo-common/target/demo-common-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-config/target/demo-config-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/demo-config/target/demo-config-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-controller/target/demo-controller-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/demo-controller/target/demo-controller-1.0-SNAPSHOT.war" />
@@ -100,7 +122,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-common/demo-common.iml" afterPath="$PROJECT_DIR$/demo-common/demo-common.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-common/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/demo-common/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/demo-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-config/demo-config.iml" afterPath="$PROJECT_DIR$/demo-config/demo-config.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-config/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/demo-config/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-controller/demo-controller.iml" afterPath="$PROJECT_DIR$/demo-controller/demo-controller.iml" />
@@ -134,11 +155,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="TUserRecord.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo-entity/src/main/java/jooqEntity/tables/records/TUserRecord.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-controller/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+            <state relative-caret-position="149">
+              <caret line="63" column="17" lean-forward="false" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="318" column="25" lean-forward="true" selection-start-line="318" selection-start-column="25" selection-end-line="318" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -170,6 +201,7 @@
       <find>demo-config</find>
       <find>demo-common</find>
       <find>cn.demo.</find>
+      <find>maven</find>
     </findStrings>
     <replaceStrings>
       <replace>cn.demo</replace>
@@ -252,42 +284,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="demo-controller" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="demo-controller" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="demo-controller" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="jetty" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="demo-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="demo-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="demo-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -324,105 +321,6 @@
             <path>
               <item name="demo-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo-parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jooqEntity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jooqEntity" type="462c0819:PsiDirectoryNode" />
-              <item name="tables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jooqEntity" type="462c0819:PsiDirectoryNode" />
-              <item name="tables" type="462c0819:PsiDirectoryNode" />
-              <item name="records" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -464,7 +362,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JooqPgGenerator">
+  <component name="RunManager" selected="Maven.demo-controller">
     <configuration name="JooqPgGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -618,7 +516,7 @@
       <workItem from="1512442606707" duration="1052000" />
       <workItem from="1512444849441" duration="12000" />
       <workItem from="1512444905718" duration="9000" />
-      <workItem from="1514366822124" duration="2639000" />
+      <workItem from="1514366822124" duration="4166000" />
     </task>
     <task id="LOCAL-00001" summary="基础班结构">
       <created>1514367076316</created>
@@ -627,11 +525,25 @@
       <option name="project" value="LOCAL" />
       <updated>1514367076317</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="jooq mysql 实体类生成">
+      <created>1514369525592</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1514369525592</updated>
+    </task>
+    <task id="LOCAL-00003" summary="jooq mysql 实体类生成">
+      <created>1514369568408</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1514369568408</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22192000" />
+    <option name="totallyTimeSpent" value="23719000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -727,7 +639,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="基础班结构" />
-    <option name="LAST_COMMIT_MESSAGE" value="基础班结构" />
+    <MESSAGE value="jooq mysql 实体类生成" />
+    <option name="LAST_COMMIT_MESSAGE" value="jooq mysql 实体类生成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -736,41 +649,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo-common/src/main/java/common/csource/fastdfs/ClientGlobal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <marker date="1514368139358" expanded="false" signature="3485:3491" ph=" { " />
-            <marker date="1514368139358" expanded="false" signature="3516:3519" ph=" }" />
-            <marker date="1514368139358" expanded="false" signature="3583:3589" ph=" { " />
-            <marker date="1514368139358" expanded="false" signature="3638:3641" ph=" }" />
-            <marker date="1514368139358" expanded="false" signature="3685:3691" ph=" { " />
-            <marker date="1514368139358" expanded="false" signature="3716:3719" ph=" }" />
-            <marker date="1514368139358" expanded="false" signature="3783:3789" ph=" { " />
-            <marker date="1514368139358" expanded="false" signature="3838:3841" ph=" }" />
-            <marker date="1514368139358" expanded="false" signature="3880:3886" ph=" { " />
-            <marker date="1514368139358" expanded="false" signature="3903:3906" ph=" }" />
-            <marker date="1514368139358" expanded="false" signature="3957:3963" ph=" { " />
-            <marker date="1514368139358" expanded="false" signature="3996:3999" ph=" }" />
-            <marker date="1514368139358" expanded="false" signature="4045:4051" ph=" { " />
-            <marker date="1514368139358" expanded="false" signature="4078:4081" ph=" }" />
-            <marker date="1514368139358" expanded="false" signature="4260:4266" ph=" { " />
-            <marker date="1514368139358" expanded="false" signature="4292:4295" ph=" }" />
-            <marker date="1514368139358" expanded="false" signature="4343:4349" ph=" { " />
-            <marker date="1514368139358" expanded="false" signature="4375:4378" ph=" }" />
-            <marker date="1514368139358" expanded="false" signature="4550:4556" ph=" { " />
-            <marker date="1514368139358" expanded="false" signature="4576:4579" ph=" }" />
-            <marker date="1514368139358" expanded="false" signature="4636:4642" ph=" { " />
-            <marker date="1514368139358" expanded="false" signature="4681:4684" ph=" }" />
-            <marker date="1514368139358" expanded="false" signature="4735:4741" ph=" { " />
-            <marker date="1514368139358" expanded="false" signature="4764:4767" ph=" }" />
-            <marker date="1514368139358" expanded="false" signature="4836:4842" ph=" { " />
-            <marker date="1514368139358" expanded="false" signature="4887:4890" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-common/src/main/java/common/util/csv/annotation/CsvField.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1232,14 +1110,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="162" column="30" lean-forward="false" selection-start-line="162" selection-start-column="30" selection-end-line="162" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-common/src/main/java/common/util/PropertyUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
@@ -1250,8 +1120,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-entity/src/main/java/jooqEntity/tables/records/TUserRecord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        <state relative-caret-position="311">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-controller/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="63" column="17" lean-forward="false" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="318" column="25" lean-forward="true" selection-start-line="318" selection-start-column="25" selection-end-line="318" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1311,7 +1197,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>demo-entity</last-edited>
+          <last-edited>demo-config</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
