@@ -166,6 +166,12 @@
             <artifactId>postgresql</artifactId>
             <version>${postgresql.version}</version>
         </dependency>
+        <!-- mysql 数据库驱动 -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.6</version>
+        </dependency>
         <!--flywaydb数据库版本管理工具-->
         <dependency>
             <groupId>org.flywaydb</groupId>
